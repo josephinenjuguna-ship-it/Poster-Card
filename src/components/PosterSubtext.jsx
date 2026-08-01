@@ -7,7 +7,7 @@ function PosterSubtext() {
 
       <p className="text-lg leading-8">
         Get to know Albert Odero, a basketball virtuoso in
-        shooting accuracy and flawless ball handling. His
+        shooting accuracy and flawless ball handling.His
         coaching aims to perfect shooting techniques and
         elevate ball control skills. Follow for exclusive
         tutorials and drills to boost your game.
