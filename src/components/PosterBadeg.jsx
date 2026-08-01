@@ -4,7 +4,7 @@ function PosterBadge() {
 
       <div>
         <h2 className="text-black bg-black font-bold text-xl uppercase border-b-2 border-orange-400 inline-block pb-2">
-          Ball Control Maestro
+        Ball Control Maestro
         </h2>
 
         <h3 className="font-bold mt-6">Strength</h3>
